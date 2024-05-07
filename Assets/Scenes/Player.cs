@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         // hello
+        // good bye
     }
 
     // Update is called once per frame
